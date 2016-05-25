@@ -1,6 +1,6 @@
 # Liferay6.2 Parent and Child theme
 
-## This tutorial will help you to create Parnet and child theme in Liferay 6.2 
+## This tutorial will help you to create Parent and child theme in Liferay 6.2 
 
 ## Download themes and deploy
 
