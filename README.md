@@ -4,7 +4,7 @@
 
 https://github.com/Sandeep821/Liferay6.2-Parent- and-Child- theme-.git
 
-Software dependency:
+###Software dependency:
 
 Install Liferay 6.2
 
