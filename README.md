@@ -4,7 +4,7 @@
 
 ## Download themes and deploy
 
-https://github.com/Sandeep821/Liferay6.2-Parent- and-Child- theme-.git
+Download .war files to delploy in Liferay 6.2
 
 ### Software dependency:
 
@@ -12,7 +12,7 @@ Install Liferay 6.2
 
 ###  Download and deploy the files:
 
-GitHub location - https://github.com/Sandeep821/Liferay6.2-Parent- and-Child- theme-.git
+Download .war files to delploy in Liferay 6.2
 
  Deploy both the war files in “deploy” folder under “yourLiferayLocation\liferay-developer-
 
