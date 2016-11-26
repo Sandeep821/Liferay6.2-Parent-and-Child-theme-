@@ -1,5 +1,7 @@
 # Liferay6.2 Parent and Child theme
 
+Complete post - http://www.web2analyst.com/liferay-6-2-parent-and-child-theme/
+
 ## This tutorial will help you to create Parent and child theme in Liferay 6.2 
 
 ## Download themes and deploy
