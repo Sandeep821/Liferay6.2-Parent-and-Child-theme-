@@ -33,3 +33,6 @@ Parent – child theme.
  Then create File &gt; New &gt; “Liferay project from existing source” and select these theme one by
 
 one.
+
+
+Complete post - http://www.web2analyst.com/liferay-6-2-parent-and-child-theme/
